@@ -1,5 +1,7 @@
 <center>
 <h1>Laravel Select 2</h1>
+
+![Laravel](https://user-images.githubusercontent.com/23190775/217596406-a3dcd7ff-21d9-43db-a609-659a41100aaf.png)
 </center>
 
 ## Build Setup
@@ -18,9 +20,6 @@
 - https://jquery.com/
 - https://select2.org/
 
-## Screenshots
-
-![Laravel](https://user-images.githubusercontent.com/23190775/217596406-a3dcd7ff-21d9-43db-a609-659a41100aaf.png)
 
 
 
