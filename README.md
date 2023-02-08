@@ -3,8 +3,9 @@
 
 ![Laravel](https://user-images.githubusercontent.com/23190775/217596406-a3dcd7ff-21d9-43db-a609-659a41100aaf.png)
 </center>
+<p>Load thousands of data into select input with laravel pagination and select2</p>
 
-## Build Setup
+## Build & Setup
 - Clone your project
 - Go to the folder application using cd command on your cmd or terminal
 - Run <code>composer install</code> on your cmd or terminal
